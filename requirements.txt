@@ -1,2 +1,4 @@
 pandas
 pandas=>23.0
+TA-Lib
+
